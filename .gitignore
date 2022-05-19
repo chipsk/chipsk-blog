@@ -1,0 +1,4 @@
+# Project exclude paths
+/shutiao-admin/target/
+/shutiao-blog/target/
+/shutiao-framework/target/
